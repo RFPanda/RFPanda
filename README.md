@@ -27,5 +27,5 @@
 [![Unsplash](https://img.shields.io/badge/-Unsplash-090909?style=for-the-badge&logo=unsplash&logoColor=007BB6)](https://www.unsplash.com/rfpanda)
 
 ### Statistic:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfpanda&theme=graywhite&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfpanda&theme=graywhite&show_icons=true)/n
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)
