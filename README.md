@@ -4,14 +4,16 @@
 
 ### Latest Works & release:
 - [Linkli - url shortener](https://www.Linkli.ga)
-- [Tgme - telegram redirect service](https://www.youtube.com/watch?v=DUqG-OjhEfg)
-- [Dart уроки для начинающих #11 - Условные конструкции (if, else, switch, case)](https://www.youtube.com/watch?v=FdG2AeabFvw)
-- [Dart уроки для начинающих #10 - Коллекции (List, Set, Map)](https://www.youtube.com/watch?v=eOsoucMMAqA)
-- [ТОП-10 плагинов VS Code для Flutter разработчика](https://www.youtube.com/watch?v=mc3hQvTCkxc)
-
+- [Tgme - telegram redirect service](https://tgme.ga)
+- [I'm SHelper - telegram bot](https://t.me/shelper1bot)
+- [Studyfive - students work](https://studyfive.ga)
+- [Localdrop - all students work(only KAI)](https://localdrop.ga)
+- [Homepage - chrome startpage](https://chrohome.ga)
+- [Personal site](https://rfpanda.ml)
+- [Old ver personal site](https://khasanov.my.id)
 
 ### Languages and Tools:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
