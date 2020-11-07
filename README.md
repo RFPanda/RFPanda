@@ -2,7 +2,7 @@
 
 ## I'm a Junior developer
 
-### Latest Works & release:
+### Latest works & release:
 - [Linkli - url shortener](https://www.Linkli.ga)
 - [Tgme - telegram redirect service](https://tgme.ga)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
