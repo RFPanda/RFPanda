@@ -1,4 +1,4 @@
-[![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/header.mp4)](https://rfpanda.ml)
+[![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml)
 
 ## I'm a Junior developer
 
