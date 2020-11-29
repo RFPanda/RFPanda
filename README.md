@@ -3,13 +3,13 @@
 ## I'm a Junior developer
 
 ### Latest works & release:
-- [Linkli - url shortener](https://www.Linkli.ga)
-- [Tgme - telegram redirect service](https://tgme.ga)
+- [Linkli - url shortener](https://www.linkli.ga)
+- [Tgme - telegram redirect service](https://tgme.cf)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://studyfive.ga)
 - [Localdrop - all students work(only KAI)](https://localdrop.ga)
 - [Homepage - chrome startpage](https://chrohome.ga)
-- [Personal site](https://rfpanda.ml)
+- [Personal site](https://rfpanda.ga)
 - [Old version personal site](https://khasanov.my.id)
 
 ### Languages and Tools:
