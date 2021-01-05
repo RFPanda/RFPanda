@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
-![C#️⃣](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
+![C Sharp](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
