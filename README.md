@@ -1,6 +1,9 @@
 [![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml)
 <a href="https://rfpanda.ga"> <img src=("https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"height="100" width="100"> </a>
 
+
+<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" alt="Your image title" width="250"/>
+
 ## I'm a Junior developer
 
 ### Latest works & release:
