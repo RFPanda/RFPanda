@@ -3,7 +3,7 @@
 ## I'm a Junior developer
 
 ### Latest works & release:
-- [Linkli - url shortener](https://www.linkli.ga)
+- [Linkli - url shortener](https://www.linkli.ml)
 - [Tgme - telegram redirect service](https://tgme.cf)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://studyfive.ga)
