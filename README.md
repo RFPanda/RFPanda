@@ -1,7 +1,4 @@
-[![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml)
-<a href="https://rfpanda.ga"> <img src=("https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"height="100" width="100"> </a>
-
-
+// [![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml)
 <a href="https://rfpanda.ga"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"></a>
 
 ## I'm a Junior developer
