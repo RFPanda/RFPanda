@@ -2,7 +2,7 @@
 <a href="https://rfpanda.ga"> <img src=("https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"height="100" width="100"> </a>
 
 
-<a href="https://rfpanda.ga"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" alt="Your image title" width="250"/></a>
+<a href="https://rfpanda.ga"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" alt="Your image title"/></a>
 
 ## I'm a Junior developer
 
