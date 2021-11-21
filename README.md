@@ -34,6 +34,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)
 
 ### Сertificates:
-<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg" width="48">
-![image](https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg)
-![](https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-2.jpg)
+<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg" width="500"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-2.jpg" width="500">
+
