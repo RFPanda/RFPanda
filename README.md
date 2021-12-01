@@ -2,8 +2,15 @@
 <a href="https://rfpanda.ga"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"></a>
 
 ## I'm a Junior developer
+##### Сontent:
++ [Latest works & release](#works)
++ [Languages and Tools](#lang)
++ [Links](#links)
++ [Statistic](#stat)
++ [Сertificates](#cert)
 
-### Latest works & release:
+
+### Latest works & release: <a name="works"></a>
 - [Linkli - url shortener](https://www.linkli.ml)
 - [Tgme - telegram redirect service](https://tgme.cf)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
@@ -13,7 +20,7 @@
 - [Personal site](https://rfpanda.ga)
 - [Old version personal site](https://khasanov.my.id)
 
-### Languages and Tools:
+### Languages and Tools: <a name="lang"></a>
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
 ![C Sharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
@@ -24,16 +31,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=00648B)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=00648B)
 
-### Follow Me:
+### Links: <a name="links"></a>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rfpanda)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/rfpanda)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/road2dope)
 [![Unsplash](https://img.shields.io/badge/-Unsplash-090909?style=for-the-badge&logo=unsplash&logoColor=007BB6)](https://www.unsplash.com/rfpanda)
+[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=007BB6)](https://steamcommunity.com/id/RFPanda)
 
-### Statistic:
+### Statistic: <a name="stat"></a> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfpanda&theme=graywhite&show_icons=true)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)
 
-### Сertificates:
+### Сertificates: <a name="cert"></a> 
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg" width="450"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-2.jpg" width="450">
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-3.jpg" align="center" width="450">  <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/int-yeas2020.jpg" align="center" width="450"> 
