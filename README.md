@@ -36,5 +36,4 @@
 
 ### Сertificates:
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg" width="450"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-2.jpg" width="450">
-<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-3.jpg" align="center" width="450"> 
-
+<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-3.jpg" align="center" width="450">  <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/int-yeas2020.jpg" align="center" width="450"> 
