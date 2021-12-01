@@ -1,15 +1,14 @@
 <!--- [![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml) -->
 <a href="https://rfpanda.ga"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"></a>
 
-## I'm a Junior developer
+# Hi! I'm a Junior developer... Go down downstairs to meet me.
 ##### Сontent:
 + [Latest works & release](#works)
 + [Languages and Tools](#lang)
 + [Links](#links)
 + [Statistic](#stat)
 + [Сertificates](#cert)
-
-
+---
 ### Latest works & release: <a name="works"></a>
 - [Linkli - url shortener](https://www.linkli.ml)
 - [Tgme - telegram redirect service](https://tgme.cf)
