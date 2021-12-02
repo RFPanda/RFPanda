@@ -38,7 +38,7 @@
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=007BB6)](https://steamcommunity.com/id/RFPanda)
 
 ### Statistic: <a name="stat"></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)     &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfpanda&theme=graywhite&show_icons=true)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpanda&langs_count=8)](https://github.com/rfpanda/github-readme-stats)     &emsp;&emsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfpanda&theme=graywhite&show_icons=true)     
 
 ### Сertificates: <a name="cert"></a> 
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-1.jpg" width="450"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-2.jpg" width="450">
