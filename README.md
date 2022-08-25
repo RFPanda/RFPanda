@@ -13,7 +13,7 @@
 - [Linkli - url shortener](https://www.linkli.ml)
 - [Tgme - telegram redirect service](https://tgme.cf)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
-- [Studyfive - students work](https://studyfive.ga)
+- [Studyfive - students work](https://www.studyfive.ga)
 - [Localdrop - all students work(only KAI)](https://localdrop.ga)
 - [Homepage - chrome startpage](https://chrohome.ga)
 - [Personal site](https://rfpanda.ga)
