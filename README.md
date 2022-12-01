@@ -11,12 +11,12 @@
 ---
 ### Latest works & release: <a name="works"></a>
 - [Linkli - url shortener](https://www.linkli.ml)
-- [Tgme - telegram redirect service](https://tgme.cf)
+- [Tgme - telegram redirect service](https://tgme.gq)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://www.studyfive.ml)
 - [Localdrop - all students work(only KAI)](https://localdrop.ga)
 - [Homepage - chrome startpage](https://chrohome.ga)
-- [Personal site](https://rfpanda.ga)
+- [Personal site](https://rfpanda.ml)
 - [Old version personal site](https://khasanov.my.id)
 
 ### Languages and Tools: <a name="lang"></a>
