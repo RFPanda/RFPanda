@@ -50,6 +50,8 @@
 
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-5.jpg" align="center" width="400">  <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-6.jpg" align="center" width="400">
 
+<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/google-sert-7.jpg" align="center" width="400">
+
 [<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/ef.jpg" width="395">](https://www.efset.org/cert/aqjVjj)
 
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/int-yeas2020.jpg" align="center" width="395">
