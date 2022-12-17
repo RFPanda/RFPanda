@@ -14,10 +14,14 @@
 - [Tgme - telegram redirect service](https://tgme.gq)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://www.studyfive.ml)
-- [Localdrop - all students work(only KAI)](https://localdrop.ga)
 - [Homepage - chrome startpage](https://chrohome.ga)
 - [Personal site](https://rfpanda.ml)
+- [AirInfo - flight schedule](https://airinfo.ml)
+
+### Old works & release: 
+- [Localdrop - all students work(only KAI)](https://localdrop.ga)
 - [Old version personal site](https://khasanov.my.id)
+- [Delimobil - rent a Car](https://delimobil.ml/)
 
 ### Languages and Tools: <a name="lang"></a>
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
