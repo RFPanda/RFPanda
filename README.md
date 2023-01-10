@@ -56,5 +56,6 @@
 
 [<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/ef.jpg" width="395">](https://www.efset.org/cert/aqjVjj)
 
+<img src="https://github.com/RFPanda/RFPanda/blob/main/assets/CodeAndAnalys.jpg" align="center" width="785">
 <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/worldskillsacademy-1.jpg" align="center" width="785">
 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;
