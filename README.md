@@ -10,7 +10,7 @@
 + [Сertificates](#cert)
 ---
 ### Latest works & release: <a name="works"></a>
-- [Linkli - url shortener](https://www.linkli.ml)
+- [Linkli - url shortener](https://www.linkli.000.pe)
 - [Tgme - telegram redirect service](https://tgme.gq)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://www.studyfive.ml)
@@ -20,7 +20,7 @@
 
 ### Old works & release: 
 - [Localdrop - all students work(only KAI)](https://localdrop.ga)
-- [Old version personal site](https://khasanov.my.id)
+- [Old version personal site](https://khasanov.000.pe)
 - [Delimobil - rent a Car](https://delimobil.ml/)
 
 ### Languages and Tools: <a name="lang"></a>
