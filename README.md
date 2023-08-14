@@ -10,11 +10,11 @@
 + [Сertificates](#cert)
 ---
 ### Latest works & release: <a name="works"></a>
-- [Linkli - url shortener](https://www.linkli.000.pe)
+- [Linkli - url shortener](https://linkli.000.pe)
 - [Tgme - telegram redirect service](https://tgme.gq)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://www.studyfive.ml)
-- [Homepage - chrome startpage](https://chrohome.ga)
+- [Homepage - chrome startpage](https://chrohome.000.pe/)
 - [Personal site](https://rfpanda.ml)
 - [AirInfo - flight schedule](https://airinfo.ml)
 
