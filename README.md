@@ -13,15 +13,15 @@
 - [Linkli - url shortener](https://linkli.000.pe)
 - [Tgme - telegram redirect service](https://tgme.gq)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
-- [Studyfive - students work](https://www.studyfive.ml)
+- [Studyfive - students work](https://www.studyfive.000.pe/)
 - [Homepage - chrome startpage](https://chrohome.000.pe/)
 - [Personal site](https://rfpanda.ml)
-- [AirInfo - flight schedule](https://airinfo.ml)
+- [AirInfo - flight schedule](https://airinfo.000.pe)
 
 ### Old works & release: 
-- [Localdrop - all students work(only KAI)](https://localdrop.ga)
+- [Localdrop - all students work(only KAI)](https://localdrop.000.pe/)
 - [Old version personal site](https://khasanov.000.pe)
-- [Delimobil - rent a Car](https://delimobil.ml/)
+- [Delimobil - rent a Car](https://delimobil.totalh.net)
 
 ### Languages and Tools: <a name="lang"></a>
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB)
