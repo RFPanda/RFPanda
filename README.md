@@ -1,5 +1,5 @@
 <!--- [![Header](https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif)](https://rfpanda.ml) -->
-&emsp;&emsp;&emsp;&emsp;<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"></a>
+&emsp;&emsp;&emsp;&emsp;<a href="https://khasanov.000.pe"> <img src="https://github.com/RFPanda/RFPanda/blob/main/assets/headerlabel.gif" align="center"></a>
 
 ### Hello! I'm a Junior developer... Go down downstairs to meet me.
 ### Сontent:
@@ -11,7 +11,7 @@
 ---
 ### Latest works & release: <a name="works"></a>
 - [Linkli - url shortener](https://linkli.000.pe)
-- [Tgme - telegram redirect service](https://tgme.gq)
+- [Tgme - telegram redirect service](https://tgme.github.io/)
 - [I'm SHelper - telegram bot](https://t.me/shelper1bot)
 - [Studyfive - students work](https://www.studyfive.000.pe)
 - [Homepage - chrome startpage](https://chrohome.000.pe)
@@ -20,7 +20,7 @@
 
 ### Old works & release: 
 - [Localdrop - all students work(only KAI)](https://localdrop.000.pe)
-- [Old version personal site](https://khasanov.000.pe)
+<!--- - [Old version personal site](https://khasanov.000.pe) --->
 - [Delimobil - rent a Car](https://delimobil.000.pe)
 
 ### Languages and Tools: <a name="lang"></a>
